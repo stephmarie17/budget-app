@@ -1,2 +1,2 @@
-# budget-appy
+# budget-app
 budget app javascript project
